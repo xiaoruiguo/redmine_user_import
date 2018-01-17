@@ -1,0 +1,22 @@
+user_import: "导入用户"
+
+# index view
+label_upload_notice: "选择一个CSV文件导入.导入文件必须有一个header行."
+label_upload_format: "文件格式设置"
+label_upload_encoding: "编码:"
+label_upload_splitter: "分隔符号:"
+label_upload_wrapper: "字段封装符:"
+button_upload: "上传文件"
+
+# match view
+label_match_columns: "匹配字段"
+label_match_select: "选择匹配字段"
+label_toplines: "显示所有的行 %s:"
+message_missing_imported_file: "缺少导入的文件"
+button_submit: "提交"
+
+# result view
+label_import_result: "导入结果"
+label_result_notice: "%d 任务被处理. %d 任务被成功导入."
+label_result_failed: "%d 行失败:"
+message_unique_filed_duplicated: "唯一字段 \"login\" 有重复记录."
